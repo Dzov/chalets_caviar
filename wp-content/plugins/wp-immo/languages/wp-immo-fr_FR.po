@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Immo v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-03 13:20:21+0000\n"
+"Last-Translator: cvmh <nicolas@cvmhsolutions.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/wpimmo-data.php:12
+#: includes/wpimmo.php:156
+#@ wp-immo
+msgid "properties"
+msgstr "biens"
+
+#: includes/wpimmo-data.php:13
+#@ wp-immo
+msgid "Property"
+msgstr "Bien"
+
+#: includes/wpimmo-data.php:14
+#@ wp-immo
+msgid "Add"
+msgstr "Ajouter"
+
+#: includes/wpimmo-data.php:15
+#@ wp-immo
+msgid "Add new property"
+msgstr "Ajouter un bien"
+
+#: includes/wpimmo-admin.php:26
+#: includes/wpimmo-data.php:16
+#@ wp-immo
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/wpimmo-data.php:17
+#@ wp-immo
+msgid "New property"
+msgstr "Modifier un bien"
+
+#: includes/wpimmo-data.php:18
+#@ wp-immo
+msgid "View property"
+msgstr "Voir le bien"
+
+#: includes/wpimmo-data.php:19
+#@ wp-immo
+msgid "Search properties"
+msgstr "Rechercher des biens"
+
+#: includes/default-data.php:142
+#: includes/default-data.php:168
+#: includes/wpimmo-data.php:20
+#@ wp-immo
+msgid "Not found"
+msgstr "Aucun élément trouvé"
+
+#: includes/wpimmo-data.php:21
+#@ wp-immo
+msgid "Not found in trash"
+msgstr "Aucun élément dans la corbeille"
+
+#: includes/wpimmo-data.php:22
+#@ wp-immo
+msgid "Properties"
+msgstr "Biens"
+
+#: includes/default-data.php:129
+#@ wp-immo
+msgid "Transaction types"
+msgstr "Types de transaction"
+
+#: includes/default-data.php:32
+#: includes/default-data.php:130
+#@ wp-immo
+msgid "Transaction type"
+msgstr "Type de transaction"
+
+#: includes/default-data.php:132
+#: includes/default-data.php:158
+#@ wp-immo
+msgid "Edit type"
+msgstr "Modifier le type"
+
+#: includes/default-data.php:133
+#: includes/default-data.php:159
+#@ wp-immo
+msgid "View type"
+msgstr "Voir le type"
+
+#: includes/default-data.php:134
+#: includes/default-data.php:160
+#@ wp-immo
+msgid "Update type"
+msgstr "Mettre à jour le type"
+
+#: includes/default-data.php:135
+#: includes/default-data.php:161
+#@ wp-immo
+msgid "Add new type"
+msgstr "Ajouter un type"
+
+#: includes/default-data.php:136
+#: includes/default-data.php:162
+#@ wp-immo
+msgid "New type name"
+msgstr "Nouveau nom pour le type"
+
+#: includes/default-data.php:137
+#: includes/default-data.php:163
+#@ wp-immo
+msgid "Search types"
+msgstr "Rechercher des types"
+
+#: includes/default-data.php:138
+#: includes/default-data.php:164
+#@ wp-immo
+msgid "Popular types"
+msgstr "Types les plus utilisés"
+
+#: includes/default-data.php:139
+#: includes/default-data.php:165
+#@ wp-immo
+msgid "Separate types with commas"
+msgstr "Séparer les types par des virgules"
+
+#: includes/default-data.php:140
+#: includes/default-data.php:166
+#@ wp-immo
+msgid "Add or remove types"
+msgstr "Ajouter ou supprimer des types"
+
+#: includes/default-data.php:141
+#: includes/default-data.php:167
+#@ wp-immo
+msgid "Choose from most used"
+msgstr "Choisir parmi les plus utilisés"
+
+#: includes/default-data.php:155
+#@ wp-immo
+msgid "Property types"
+msgstr "Types de bien"
+
+#: includes/default-data.php:38
+#: includes/default-data.php:156
+#@ wp-immo
+msgid "Property type"
+msgstr "Type de bien"
+
+#: includes/wpimmo-admin.php:245
+#: templates/admin/settings.php:103
+#@ wp-immo
+msgid "Settings"
+msgstr "Réglages"
+
+#: templates/admin/tabs/main.php:200
+#@ wp-immo
+msgid "Thumbnail size"
+msgstr "Taille des miniatures"
+
+#: templates/admin/tabs/main.php:202
+#: templates/admin/tabs/main.php:214
+#: templates/admin/tabs/main.php:226
+#@ wp-immo
+msgid "Width"
+msgstr "Largeur"
+
+#: templates/admin/tabs/main.php:204
+#: templates/admin/tabs/main.php:216
+#: templates/admin/tabs/main.php:228
+#@ wp-immo
+msgid "Height"
+msgstr "Hauteur"
+
+#: templates/admin/tabs/groups.php:5
+#: templates/admin/tabs/groups.php:100
+#: templates/admin/tabs/main.php:5
+#: templates/admin/tabs/main.php:375
+#: templates/admin/tabs/search.php:5
+#: templates/admin/tabs/search.php:137
+#@ wp-immo
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: templates/admin/tabs/main.php:212
+#@ wp-immo
+msgid "List size"
+msgstr "Taille liste"
+
+#: templates/admin/tabs/main.php:224
+#@ wp-immo
+msgid "Detail size"
+msgstr "Taille détail"
+
+#: templates/admin/tabs/main.php:208
+#: templates/admin/tabs/main.php:220
+#: templates/admin/tabs/main.php:232
+#@ wp-immo
+msgid "Crop thumbnail to exact dimensions"
+msgstr "Recadrer les images pour parvenir aux dimensions exactes"
+
+#: includes/default-data.php:26
+#@ wp-immo
+msgid "Property reference"
+msgstr "Référence du bien"
+
+#: includes/default-data.php:50
+#@ wp-immo
+msgid "Ad title"
+msgstr "Titre de l'annonce"
+
+#: includes/default-data.php:55
+#: templates/front/property.php:68
+#@ wp-immo
+msgid "Property description"
+msgstr "Description du bien"
+
+#: includes/default-data.php:60
+#@ wp-immo
+msgid "Property zip code"
+msgstr "Code postal du bien"
+
+#: includes/default-data.php:65
+#@ wp-immo
+msgid "Property city"
+msgstr "Ville du bien"
+
+#: includes/default-data.php:70
+#@ wp-immo
+msgid "Number of rooms"
+msgstr "Nombre de pièces"
+
+#: includes/wpimmo-admin.php:247
+#: templates/admin/settings.php:110
+#@ wp-immo
+msgid "Help"
+msgstr "Aide"
+
+#: templates/admin/tabs/main.php:32
+#@ wp-immo
+msgid "Properties not in feed"
+msgstr "Biens non présents dans le flux"
+
+#: includes/wpimmo-admin.php:25
+#: templates/admin/metaboxes/images.php:19
+#: templates/admin/tabs/groups.php:35
+#: templates/admin/tabs/groups.php:51
+#: templates/admin/tabs/main.php:34
+#: templates/admin/tabs/search.php:53
+#@ wp-immo
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/admin/tabs/main.php:35
+#@ wp-immo
+msgid "Set to draft"
+msgstr "Passer en brouillon"
+
+#: templates/admin/tabs/main.php:25
+#@ wp-immo
+msgid "Feed URL"
+msgstr "URL du flux"
+
+#: templates/admin/tabs/main.php:36
+#@ wp-immo
+msgid "Move to trash"
+msgstr "Déplacer dans la corbeille"
+
+#: includes/wpimmo-admin.php:246
+#: templates/admin/settings.php:109
+#@ wp-immo
+msgid "Tools"
+msgstr "Outils"
+
+#: templates/admin/tabs/tools.php:13
+#@ wp-immo
+msgid "Force process feed"
+msgstr "Forcer l'import"
+
+#: templates/admin/tabs/tools.php:21
+#@ wp-immo
+msgid "Delete all properties"
+msgstr "Supprimer tous les biens"
+
+#: templates/admin/settings.php:10
+#, php-format
+#@ wp-immo
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr "Pour revenir à la page précédente, <a href=\"%s\">cliquez ici</a>."
+
+#: templates/admin/settings.php:96
+#@ wp-immo
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Vous devez activer Javascript pour utiliser ce plugin !"
+
+#: includes/wpimmo-admin.php:16
+#: templates/admin/tabs/import.php:5
+#@ wp-immo
+msgid "Saving"
+msgstr "Enregistrement de "
+
+#: includes/wpimmo-admin.php:18
+#@ wp-immo
+msgid "Stopping..."
+msgstr "Arrêt en cours..."
+
+#: templates/admin/settings.php:26
+#: templates/admin/settings.php:42
+#: templates/admin/settings.php:58
+#@ wp-immo
+msgid "Nonce error."
+msgstr "Erreur nonce."
+
+#: templates/admin/settings.php:30
+#: templates/admin/settings.php:46
+#: templates/admin/settings.php:62
+#@ wp-immo
+msgid "You are not allowed to change the settings."
+msgstr "Vous n'êtes pas autorisé à modifier les paramètres."
+
+#: templates/admin/settings.php:76
+#@ wp-immo
+msgid "WP Immo feed not found."
+msgstr "Le flux WP Immo n'a pas été trouvé."
+
+#: templates/admin/tabs/main.php:149
+#@ wp-immo
+msgid "Remove WP Immo data on uninstall"
+msgstr "Supprimer les données WP Immo à la suppression du plugin."
+
+#: templates/admin/tabs/tools.php:12
+#@ wp-immo
+msgid "You're going to process to feed importation. Continue ?"
+msgstr "Vous allez importer le flux de votre logiciel. Voulez-vous continuer ?"
+
+#: templates/admin/tabs/tools.php:20
+#@ wp-immo
+msgid "You're going to delete all WP Immo items. Continue ?"
+msgstr "Vous allez supprimer tous les biens WP Immo. Voulez-vous continuer ?"
+
+#: includes/wpimmo-admin.php:17
+#: templates/admin/tabs/delete.php:5
+#@ wp-immo
+msgid "Deleting"
+msgstr "Supression de"
+
+#: templates/admin/settings.php:107
+#, php-format
+#@ wp-immo
+msgid "%s in progress..."
+msgstr "%s en cours..."
+
+#: templates/admin/tabs/delete.php:7
+#: templates/admin/tabs/import.php:7
+#@ wp-immo
+msgid "Abort process"
+msgstr "Arrêter le traitement"
+
+#: includes/wpimmo-admin.php:112
+#@ wp-immo
+msgid "Image"
+msgstr "Image"
+
+#: includes/wpimmo-admin.php:113
+#@ wp-immo
+msgid "Reference"
+msgstr "Référence"
+
+#: includes/wpimmo-cron.php:58
+#@ wp-immo
+msgid "Hello !"
+msgstr "Bonjour !"
+
+#: includes/wpimmo-cron.php:59
+#@ wp-immo
+msgid "Your WP Immo cron has just finished."
+msgstr "L'import automatique WP Immo vient juste de se terminer."
+
+#: includes/wpimmo-cron.php:60
+#@ wp-immo
+msgid "Here's what happened:"
+msgstr "Voici ce qu'il s'est passé :"
+
+#: includes/wpimmo-cron.php:61
+#, php-format
+#@ wp-immo
+msgid "Added items: %s"
+msgstr "Biens ajoutés : %s"
+
+#: includes/wpimmo-cron.php:62
+#, php-format
+#@ wp-immo
+msgid "Updated items: %s"
+msgstr "Biens mis à jour : %s"
+
+#: includes/wpimmo-cron.php:64
+#@ wp-immo
+msgid "WP Immo team"
+msgstr "L'équipe WP Immo"
+
+#: includes/wpimmo-cron.php:65
+#@ wp_immo
+msgid "WP Immo cron report"
+msgstr ""
+
+#: templates/admin/tabs/main.php:11
+#@ wp-immo
+msgid "Feed"
+msgstr "Flux"
+
+#: templates/admin/tabs/main.php:17
+#@ wp-immo
+msgid "Real estate software"
+msgstr "Logiciel immobilier"
+
+#: templates/admin/tabs/help.php:13
+#: templates/admin/tabs/main.php:87
+#@ wp-immo
+msgid "Scheduled task"
+msgstr "Tâche programmée"
+
+#: templates/admin/tabs/main.php:92
+#@ wp-immo
+msgid "Enable"
+msgstr "Activer"
+
+#: templates/admin/tabs/main.php:96
+#@ wp-immo
+msgid "Recurrence"
+msgstr "Fréquence"
+
+#: templates/admin/tabs/main.php:98
+#@ wp-immo
+msgid "Daily"
+msgstr "Tous les jours"
+
+#: templates/admin/tabs/main.php:99
+#@ wp-immo
+msgid "Twice daily"
+msgstr "Deux fois par jour"
+
+#: templates/admin/tabs/main.php:100
+#@ wp-immo
+msgid "Hourly"
+msgstr "Toutes les heures"
+
+#: templates/admin/tabs/main.php:115
+#@ wp-immo
+msgid "Report"
+msgstr "Rapport"
+
+#: templates/admin/tabs/main.php:119
+#@ wp-immo
+msgid "Report email"
+msgstr "Rapport email"
+
+#: templates/admin/tabs/main.php:128
+#@ wp-immo
+msgid "Admin"
+msgstr "Administration"
+
+#: templates/admin/tabs/main.php:133
+#@ wp-immo
+msgid "Manage properties in admin"
+msgstr "Gérer les biens dans l'administration"
+
+#: templates/admin/tabs/main.php:145
+#@ wp-immo
+msgid "Manage taxonomies in admin"
+msgstr "Gérer les taxonomies dans l'administration"
+
+#: templates/admin/tabs/help.php:16
+#@ wp-immo
+msgid "If you want to use the scheduled task, we recommend you disable the default WordPress CRON and configure an automatic task on your hosting."
+msgstr "Si vous voulez utiliser la tâche programmée, nous vous conseillons de désactiver le CRON par défaut de WordPress et de configurer une tâche automatique chez votre hébergeur."
+
+#: templates/admin/tabs/help.php:17
+#@ wp-immo
+msgid "To disable the native WordPress CRON, add these lines in the wp-config.php file:"
+msgstr "Pour désactiver le CRON natif de WordPress, ajoutez ces lignes dans le fichier wp -config.php :"
+
+#: templates/admin/tabs/help.php:21
+#@ wp-immo
+msgid "Next, add the wp-cron.php script in your hosting CRON tab. Otherwise <strong>native and vital functions of WordPress no longer work</strong> (planning posts for example)."
+msgstr "Ensuite, ajoutez le script wp-cron.php dans les tâches planifiées de votre hébergement. Sans cela, des fonctions natives et vitales de WordPress ne fonctionneraient plus (planification des articles par exemple)."
+
+#: templates/admin/tabs/help.php:22
+#@ wp-immo
+msgid "Schedule the CRON job every hour minimum."
+msgstr "Planifiez la tâche CRON toutes les heures au minimum."
+
+#: templates/admin/tabs/help.php:27
+#@ wp-immo
+msgid "Available fields"
+msgstr "Champs disponibles"
+
+#: templates/admin/tabs/help.php:29
+#@ wp-immo
+msgid "You can use this fields to configure WP Immo (i.e. for H1 titles):"
+msgstr "Vous pouvez utiliser ces champs dans la configuration WP Immo (par exemple pour les titres H1) :"
+
+#: includes/wpimmo-admin.php:76
+#@ wp-immo
+msgid "Property informations"
+msgstr "Informations du bien"
+
+#: includes/wpimmo-widgets.php:279
+#: templates/admin/metaboxes/informations.php:51
+#: templates/admin/tabs/search.php:96
+#@ wp-immo
+msgid "yes"
+msgstr "oui"
+
+#: includes/wpimmo-widgets.php:280
+#: templates/admin/metaboxes/informations.php:52
+#: templates/admin/tabs/search.php:95
+#@ wp-immo
+msgid "no"
+msgstr "non"
+
+#: templates/admin/tabs/main.php:177
+#: templates/admin/tabs/main.php:291
+#, php-format
+#@ wp-immo
+msgid "Use '&#37;' to frame each field (<a href=\"%s\">list available here</a>)."
+msgstr "Encadrez chaque champ par '&#37;' (<a href=\"%s\">liste disponible ici</a>)."
+
+#: includes/default-data.php:43
+#@ wp-immo
+msgid "Selling price or monthly rent charges included"
+msgstr "Prix de vente FAI ou loyer mensuel charges comprises"
+
+#: includes/default-data.php:131
+#@ wp-immo
+msgid "All transaction types"
+msgstr "Tous les types de transaction"
+
+#: includes/default-data.php:157
+#@ wp-immo
+msgid "All property types"
+msgstr "Tous les types de bien"
+
+#: templates/admin/tabs/main.php:137
+#@ wp-immo
+msgid "Taxonomies in properties table"
+msgstr "Taxonomies du tableau de biens"
+
+#: templates/admin/tabs/main.php:277
+#: templates/admin/tabs/main.php:295
+#@ wp-immo
+msgid "Permalink"
+msgstr "Permalien"
+
+#: templates/admin/tabs/main.php:281
+#: templates/admin/tabs/main.php:299
+#@ wp-immo
+msgid "Meta title"
+msgstr "Meta title"
+
+#: templates/admin/tabs/main.php:285
+#: templates/admin/tabs/main.php:303
+#@ wp-immo
+msgid "Page title (h1)"
+msgstr "Titre (h1)"
+
+#: includes/default-data.php:83
+#: includes/wpimmo-admin.php:77
+#@ wp-immo
+msgid "Images"
+msgstr "Images"
+
+#: templates/admin/tabs/main.php:271
+#@ wp-immo
+msgid "SEO"
+msgstr "SEO"
+
+#: templates/admin/tabs/main.php:290
+#@ wp-immo
+msgid "Property page"
+msgstr "Page bien"
+
+#: templates/admin/tabs/main.php:344
+#@ wp-immo
+msgid "Active fields"
+msgstr "Champs activés"
+
+#: templates/admin/tabs/main.php:352
+#@ wp-immo
+msgid "Active taxonomies"
+msgstr "Taxonomies activées"
+
+#: includes/wpimmo.php:157
+#@ wp-immo
+msgid "Our properties"
+msgstr "Nos biens"
+
+#: templates/admin/tabs/main.php:273
+#@ wp-immo
+msgid "List page"
+msgstr "Page liste"
+
+#: includes/wpimmo-widgets.php:14
+#@ wp-immo
+msgid "The last WP Immo properties."
+msgstr "Les derniers biens WP Immo."
+
+#: includes/wpimmo-widgets.php:15
+#@ wp-immo
+msgid "WP Immo - Last properties"
+msgstr "WP Immo - Derniers biens"
+
+#: includes/wpimmo-widgets.php:37
+#: includes/wpimmo-widgets.php:151
+#: templates/admin/tabs/groups.php:32
+#@ wp-immo
+#@ wp_immo
+msgid "Title:"
+msgstr "Titre :"
+
+#: includes/wpimmo-widgets.php:41
+#@ wp-immo
+msgid "Number of properties to show:"
+msgstr "Nombre de biens à afficher :"
+
+#: includes/wpimmo-widgets.php:128
+#@ wp-immo
+msgid "Search box for WP Immo properties."
+msgstr "Moteur de recherche pour les biens WP Immo."
+
+#: includes/wpimmo-widgets.php:130
+#@ wp-immo
+msgid "WP Immo - Search"
+msgstr "WP Immo - Recherche"
+
+#: includes/wpimmo-widgets.php:155
+#@ wp-immo
+msgid "Type:"
+msgstr "Type :"
+
+#: includes/wpimmo-widgets.php:157
+#: templates/admin/tabs/main.php:262
+#: templates/admin/tabs/search.php:16
+#@ wp-immo
+msgid "Full"
+msgstr "Complet"
+
+#: includes/wpimmo-widgets.php:158
+#: templates/admin/tabs/main.php:263
+#: templates/admin/tabs/search.php:15
+#@ wp-immo
+msgid "Basic"
+msgstr "Basique"
+
+#: templates/admin/tabs/main.php:157
+#@ wp-immo
+msgid "Frontend"
+msgstr "Site public"
+
+#: templates/admin/tabs/main.php:174
+#@ wp-immo
+msgid "List title"
+msgstr "Titre liste"
+
+#: templates/admin/tabs/main.php:244
+#@ wp-immo
+msgid "Use WP Immo templates"
+msgstr "Utiliser les templates WP Immo"
+
+#: templates/admin/tabs/help.php:5
+#@ wp-immo
+msgid "Breadcrumbs"
+msgstr "Fil d'Ariane"
+
+#: templates/admin/tabs/help.php:8
+#@ wp-immo
+msgid "If you use WP Immo templates and the WordPress SEO plugin by Yoast, you can enable the breadcrumbs. WP Immo templates support WordPress SEO breadcrumbs and will display them."
+msgstr "Si vous utilisez les templates WP Immo et l'extenstion WordPress SEO par Yoast, vous pouvez activer le fil d'Ariane. Les templates WP Immo sont configurés pour afficher ce fil d'Ariane s'il est activé."
+
+#: templates/admin/tabs/main.php:256
+#@ wp-immo
+msgid "Display Search box on list template"
+msgstr "Afficher le moteur de recherche sur le template liste"
+
+#: templates/admin/tabs/main.php:260
+#@ wp-immo
+msgid "Search box type"
+msgstr "Type de moteur"
+
+#: includes/wpimmo-widgets.php:215
+#@ wp-immo
+msgid "Send"
+msgstr "Envoyer"
+
+#: templates/front/property.php:25
+#@ wp-immo
+msgid "Back"
+msgstr "Retour"
+
+#: includes/wpimmo-front.php:267
+#@ wp-immo
+msgid "Share:"
+msgstr "Partager :"
+
+#: includes/wpimmo-front.php:224
+#@ wp-immo
+msgid "Diagnosis of energy performance"
+msgstr "Diagnostic de performance énergétique"
+
+#: includes/wpimmo-front.php:228
+#@ wp-immo
+msgid "Economic residence"
+msgstr "Logement économe"
+
+#: includes/wpimmo-front.php:236
+#@ wp-immo
+msgid "Inefficient housing"
+msgstr "Logement énergivore"
+
+#: includes/wpimmo-front.php:241
+#@ wp-immo
+msgid "Low-emission"
+msgstr "Faible émission de GES"
+
+#: includes/wpimmo-front.php:249
+#@ wp-immo
+msgid "High gas emission"
+msgstr "Forte émission de GES"
+
+#: templates/admin/tabs/help.php:109
+#@ wp-immo
+msgid "WP Immo functions"
+msgstr "Fonctions WP Immo"
+
+#: includes/wpimmo-tools.php:17
+#@ wp-immo
+msgid "Print"
+msgstr "Imprimer"
+
+#: includes/wpimmo-tools.php:21
+#: templates/admin/tabs/main.php:67
+#@ wp-immo
+msgid "Email"
+msgstr "Email"
+
+#: includes/wpimmo-tools.php:45
+#@ wp-immo
+msgid "+ button (with all AddThis services)"
+msgstr "Boutton + (tous les services AddThis)"
+
+#: includes/wpimmo-tools.php:49
+#@ wp-immo
+msgid "Bubble counter"
+msgstr "Bulle compteur"
+
+#: templates/admin/tabs/main.php:45
+#@ wp-immo
+msgid "Agency"
+msgstr "Agence"
+
+#: templates/admin/tabs/main.php:51
+#@ wp-immo
+msgid "Name"
+msgstr "Nom"
+
+#: templates/admin/tabs/main.php:59
+#@ wp-immo
+msgid "Phone"
+msgstr "Téléphone"
+
+#: templates/admin/tabs/main.php:311
+#@ wp-immo
+msgid "AddThis"
+msgstr "AddThis"
+
+#: templates/admin/tabs/main.php:316
+#@ wp-immo
+msgid "Enable Addthis buttons"
+msgstr "Activer les boutons Addthis"
+
+#: templates/admin/tabs/main.php:320
+#@ wp-immo
+msgid "Buttons size"
+msgstr "Taille des boutons"
+
+#: templates/admin/tabs/main.php:328
+#@ wp-immo
+msgid "Displayed buttons"
+msgstr "Boutons affichés"
+
+#: templates/admin/tabs/main.php:75
+#@ wp-immo
+msgid "Logo URL"
+msgstr "URL du logo"
+
+#: templates/admin/settings.php:112
+#@ wp-immo
+msgid "WP Immo is a tool developed by <a href=\"http://www.agence-web-cvmh.fr\" target=\"_blank\">CVMH solutions</a>."
+msgstr "WP Immo est un outil développé par <a href=\"http://www.agence-web-cvmh.fr\" target=\"_blank\">CVMH solutions</a>."
+
+#: templates/admin/tabs/main.php:162
+#@ wp-immo
+msgid "Contact page"
+msgstr "Page contact"
+
+#: includes/wpimmo-front.php:378
+#, php-format
+#@ wp-immo
+msgid "There is no result for your search but we have perhaps the property of your dreams. <a href=\"%s\">Please click here to contact us!</a>"
+msgstr "Il n'y a aucun résultat pour votre recherche, mais nous avons peut-être le bien de vos rêves. <a href=\"%s\">Cliquez ici pour nous contacter !</a>"
+
+#: includes/wpimmo-front.php:380
+#@ wp-immo
+msgid "There is no result for your search."
+msgstr "Aucun résultat pour votre recherche."
+
+#: templates/admin/tabs/main.php:360
+#@ wp-immo
+msgid "Custom data"
+msgstr "Données personnalisées"
+
+#: templates/admin/tabs/main.php:362
+#@ wp-immo
+msgid "<strong>Only JSON data is supported</strong>.<br />To retrieve custom data as an array on frontend, use the <code>wpimmo_get_custom_data()</code> function."
+msgstr "<strong>Seul le format JSON est supporté</strong>.<br />Pour récupérer les données personnalisées du côté public sous forme de tableau associatif, utilisez la fonction<code>wpimmo_get_custom_data()</code>."
+
+#: templates/admin/tabs/help.php:34
+#@ wp-immo
+msgid "Description"
+msgstr "Description"
+
+#: templates/admin/tabs/help.php:143
+#@ wp-immo
+msgid "Returns the value of the specified field.<br />If the field type is a taxonomy, the returned result will be the taxonomy value."
+msgstr "Retourne la valeur du champ spécifié.<br />Si le type de champ est une taxonomie, le résultat retourné sera la valeur de la taxonomie."
+
+#: templates/admin/tabs/help.php:54
+#: templates/admin/tabs/help.php:75
+#: templates/admin/tabs/help.php:94
+#: templates/admin/tabs/help.php:114
+#: templates/admin/tabs/help.php:124
+#: templates/admin/tabs/help.php:134
+#: templates/admin/tabs/help.php:144
+#: templates/admin/tabs/help.php:158
+#: templates/admin/tabs/help.php:171
+#: templates/admin/tabs/help.php:181
+#@ wp-immo
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: templates/admin/tabs/help.php:67
+#: templates/admin/tabs/help.php:86
+#: templates/admin/tabs/help.php:105
+#: templates/admin/tabs/help.php:116
+#: templates/admin/tabs/help.php:126
+#: templates/admin/tabs/help.php:136
+#: templates/admin/tabs/help.php:150
+#: templates/admin/tabs/help.php:163
+#: templates/admin/tabs/help.php:173
+#: templates/admin/tabs/help.php:183
+#@ wp-immo
+msgid "Usage"
+msgstr "Utilisation"
+
+#: templates/admin/tabs/help.php:180
+#@ wp-immo
+msgid "Returns the value of the custom data configured in WP Immo settings.<br />Please note the custom data only accepts JSON."
+msgstr "Retourne la valeur du champ  “données personnalisées” renseigné dans les réglages WP Immo.<br />Attention, les données personnalisées n'acceptent que le format JSON."
+
+#: templates/admin/tabs/help.php:147
+#@ wp-immo
+msgid "specific post ID where your value was entered <em>(required)</em>"
+msgstr "identifiant du post pour la valeur choisie <em>(requis)</em>"
+
+#: templates/admin/tabs/help.php:148
+#@ wp-immo
+msgid "the name of the field to be retrieved. eg “reference” <em>(required)</em>"
+msgstr "la clef du champ à retourner. eg “reference” <em>(requis)</em>"
+
+#: templates/admin/tabs/help.php:161
+#@ wp-immo
+msgid "specific post ID <em>(required)</em>"
+msgstr "identifiant du post <em>(requis)</em>"
+
+#: templates/admin/tabs/main.php:236
+#@ wp-immo
+msgid "Pagination"
+msgstr "Pagination"
+
+#: templates/admin/tabs/main.php:240
+#@ wp-immo
+msgid "Properties per page"
+msgstr "Biens par page"
+
+#: templates/admin/tabs/main.php:248
+#@ wp-immo
+msgid "Lazy load"
+msgstr "Chargement progressif des images (lazy load)"
+
+#: templates/admin/tabs/main.php:252
+#@ wp-immo
+msgid "Images zoom"
+msgstr "Zoom sur les images"
+
+#: templates/admin/tabs/help.php:123
+#@ wp-immo
+msgid "Returns query object filtered on published WP Immo custom post type and paginated if needed. Then simply use it like the WordPress query (have_posts(), the_post()...)."
+msgstr "Retourne un objet “query” filtré sur le custom post WP Immo et paginé si la pagination est activée. Vous pouvez ensuite utilisé l'objet retourné comme l'objet “query”de WordPress (have_posts(), the_post()...)."
+
+#: templates/admin/tabs/help.php:133
+#@ wp-immo
+msgid "Display navigation when applicable."
+msgstr "Affiche la navigation si configurée."
+
+#: templates/admin/tabs/help.php:157
+#@ wp-immo
+msgid "Displays the energy diagrams.<br />Background images are png and located in the “images” directory of WP Immo plugin."
+msgstr "Affiche les diagrammes énergétiques.<br />Les images d'arrière-plan sont des png stockés dans le dossier “images” de l'extension WP Immo."
+
+#: templates/admin/tabs/help.php:170
+#@ wp-immo
+msgid "Displays AddThis share buttons and JavaScript call. Buttons displayed are configured in the WP Immo settings page."
+msgstr "Affiche les boutons de partage AddThis et l'appel au JavaScript. Les bouttons affichés sont configurables dans les réglages WP Immo."
+
+#: templates/admin/tabs/help.php:115
+#: templates/admin/tabs/help.php:125
+#: templates/admin/tabs/help.php:135
+#: templates/admin/tabs/help.php:172
+#: templates/admin/tabs/help.php:182
+#@ wp-immo
+msgid "No parameters."
+msgstr "Aucun paramètre."
+
+#: includes/wpimmo-admin.php:23
+#@ wp-immo
+msgid "Select images"
+msgstr "Sélectionner des images"
+
+#: includes/wpimmo-admin.php:24
+#@ wp-immo
+msgid "Use this selection"
+msgstr "Utiliser cette sélection"
+
+#: includes/default-data.php:75
+#@ wp-immo
+msgid "Living surface"
+msgstr "Surface habitable"
+
+#: templates/admin/metaboxes/images.php:27
+#@ wp-immo
+msgid "Add images"
+msgstr "Ajouter des images"
+
+#: includes/default-data.php:13
+#@ wp-immo
+msgid "Custom"
+msgstr "Aucun"
+
+#: templates/admin/settings.php:34
+#@ wp-immo
+msgid "Your settings have been saved."
+msgstr "Vos paramètres ont été enregistrés."
+
+#: templates/admin/tabs/delete.php:2
+#@ wp-immo
+msgid "Please be patient while the items are deleted. This can take a while if your server is slow (inexpensive hosting) or if there is many items. Do not navigate away from this page until this script is done. You will be notified via this page when the process is completed."
+msgstr "Merci de patienter pendant la suppression des biens. Le traitement peut prendre du temps si votre serveur est lent (hébergement bas de gamme) ou s'il y a beaucoup de biens à traiter. Ne quittez pas cette page avant la fin du traitement. Vous serez notifié lorsqu'il sera terminé."
+
+#: templates/admin/tabs/delete.php:15
+#, php-format
+#@ wp-immo
+msgid "All done! %1$s item was successfully removed. %2$s"
+msgid_plural "All done! %1$s items were successfully removed. %2$s"
+msgstr[0] "Terminé ! %1$s bien a été supprimé. %2$s"
+msgstr[1] "Terminé ! %1$s biens ont été supprimés. %2$s"
+
+#: includes/wpimmo-admin.php:20
+#@ wp-immo
+msgid "Deletion completed"
+msgstr "Suppression terminée"
+
+#: includes/wpimmo-admin.php:22
+#@ wp-immo
+msgid "The delete process was abnormally terminated. This is likely due to the file exceeding available memory or some other type of fatal error."
+msgstr "La suppression ne s'est pas correctement terminée. Cela est généralement du à un dépassement de la mémoire allouée ou à une erreur interne."
+
+#: templates/admin/tabs/import.php:2
+#@ wp-immo
+msgid "Please be patient while the items are imported. This can take a while if your server is slow (inexpensive hosting) or if there is many items. Do not navigate away from this page until this script is done. You will be notified via this page when the process is completed."
+msgstr "Merci de patienter pendant l'importation des biens. Le traitement peut prendre du temps si votre serveur est lent (hébergement bas de gamme) ou s'il y a beaucoup de biens à traiter. Ne quittez pas cette page avant la fin du traitement. Vous serez notifié lorsqu'il sera terminé."
+
+#: templates/admin/tabs/import.php:15
+#, php-format
+#@ wp-immo
+msgid "All done! %1$s item was successfully imported. %2$s"
+msgid_plural "All done! %1$s items were successfully imported. %2$s"
+msgstr[0] "Terminé ! %1$s bien a été importé. %2$s"
+msgstr[1] "Terminé ! %1$s biens ont été importés. %2$s"
+
+#: includes/wpimmo-admin.php:19
+#@ wp-immo
+msgid "Import completed"
+msgstr "Import terminé"
+
+#: includes/wpimmo-admin.php:21
+#@ wp-immo
+msgid "The import process was abnormally terminated. This is likely due to the file exceeding available memory or some other type of fatal error."
+msgstr "L'importation ne s'est pas correctement terminée. Cela est généralement du à un dépassement de la mémoire allouée ou à une erreur interne."
+
+#: templates/admin/settings.php:107
+#@ wp-immo
+msgid "Deletion"
+msgstr "Suppression"
+
+#: templates/admin/settings.php:107
+#@ wp-immo
+msgid "Import"
+msgstr "Importation"
+
+#: includes/wpimmo-admin.php:27
+#: templates/admin/tabs/search.php:64
+#@ wp-immo
+msgid "text"
+msgstr "Champ texte"
+
+#: includes/wpimmo-admin.php:28
+#: templates/admin/tabs/search.php:65
+#@ wp-immo
+msgid "select"
+msgstr "Liste de choix"
+
+#: includes/wpimmo-admin.php:29
+#: templates/admin/tabs/search.php:68
+#@ wp-immo
+msgid "interval"
+msgstr "Intervalle"
+
+#: includes/wpimmo-admin.php:30
+#: templates/admin/tabs/search.php:69
+#@ wp-immo
+msgid "submit"
+msgstr "Bouton de soumission"
+
+#: templates/admin/settings.php:105
+#@ wp-immo
+msgid "Search boxes"
+msgstr "Moteurs de recherche"
+
+#: templates/admin/tabs/search.php:29
+#@ wp-immo
+msgid "Position"
+msgstr "Position"
+
+#: templates/admin/tabs/groups.php:59
+#: templates/admin/tabs/search.php:30
+#: templates/admin/tabs/search.php:74
+#@ wp-immo
+msgid "Field"
+msgstr "Champ"
+
+#: templates/admin/tabs/search.php:31
+#: templates/admin/tabs/search.php:61
+#@ wp-immo
+msgid "Field type"
+msgstr "Type de champ"
+
+#: templates/admin/tabs/search.php:51
+#@ wp-immo
+msgid "type"
+msgstr "type de champ"
+
+#: templates/admin/tabs/search.php:86
+#@ wp-immo
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: templates/admin/tabs/search.php:93
+#@ wp-immo
+msgid "Hide empty"
+msgstr "Cacher les taxonomies non utilisées"
+
+#: templates/admin/tabs/groups.php:83
+#: templates/admin/tabs/search.php:104
+#: templates/admin/tabs/search.php:120
+#@ wp-immo
+msgid "Label"
+msgstr "Label"
+
+#: templates/admin/tabs/search.php:108
+#@ wp-immo
+msgid "Placeholder"
+msgstr "Texte par défaut (placeholder)"
+
+#: templates/admin/tabs/search.php:112
+#@ wp-immo
+msgid "First placeholder"
+msgstr "Texte par défaut (placeholder) du premier champ"
+
+#: templates/admin/tabs/search.php:116
+#@ wp-immo
+msgid "Second placeholder"
+msgstr "Texte par défaut (placeholder) du deuxième champ"
+
+#: templates/admin/tabs/groups.php:91
+#: templates/admin/tabs/search.php:128
+#@ wp-immo
+msgid "Add field"
+msgstr "Ajouter un champ"
+
+#: templates/admin/tabs/search.php:100
+#@ wp-immo
+msgid "First choice (empty)"
+msgstr "Premier choix (vide)"
+
+#: templates/admin/tabs/groups.php:49
+#: templates/admin/tabs/search.php:50
+#@ wp-immo
+msgid "new field"
+msgstr "nouveau champ"
+
+#: templates/admin/settings.php:50
+#@ wp-immo
+msgid "Your search boxes have been saved."
+msgstr "Vos modifications ont été enregistrées."
+
+#: templates/admin/tabs/search.php:14
+#@ wp-immo
+msgid "Default title"
+msgstr "Titre par défaut"
+
+#: languages/infos.php:6
+#@ wp-immo
+msgid "Manage your real estate in WordPress."
+msgstr "Gérez vos biens immobiliers dans WordPress."
+
+#: templates/admin/tabs/tools.php:27
+#@ wp-immo
+msgid "No tool available. Fill the feed URL or import properties to enable them."
+msgstr "Aucun outil disponible. Renseignez l'URL du flux ou  importez des biens pour les activer."
+
+#: templates/admin/tabs/help.php:33
+#@ wp-immo
+msgid "Key"
+msgstr "Clé"
+
+#: includes/wpimmo-cron.php:63
+#, php-format
+#@ wp-immo
+msgid "Deleted items: %s"
+msgstr "Biens supprimés : %s"
+
+#: templates/admin/tabs/main.php:104
+#@ wp-immo
+msgid "Hour"
+msgstr "Heure"
+
+#: templates/admin/tabs/main.php:111
+#@ wp-immo
+msgid "h"
+msgstr "h"
+
+#: includes/wpimmo-widgets.php:45
+#@ wp-immo
+msgid "Condition:"
+msgstr "Condition :"
+
+#: includes/wpimmo-widgets.php:47
+#@ wp-immo
+msgid "None"
+msgstr "Aucune"
+
+#: templates/admin/tabs/main.php:181
+#@ wp-immo
+msgid "Field pastille"
+msgstr "Champ pastille"
+
+#: templates/admin/tabs/main.php:194
+#@ wp-immo
+msgid "Pastille label"
+msgstr "Texte pastille"
+
+#: includes/default-data.php:88
+#@ wp-immo
+msgid "New"
+msgstr "Nouveauté"
+
+#: includes/default-data.php:93
+#@ wp-immo
+msgid "Plot area"
+msgstr "Surface du terrain"
+
+#: includes/default-data.php:99
+#@ wp-immo
+msgid "Energy consumption category"
+msgstr "Valeur de consommation d'énergie"
+
+#: includes/default-data.php:100
+#: includes/default-data.php:112
+#@ wp-immo
+msgid "letter"
+msgstr "lettre"
+
+#: includes/default-data.php:105
+#@ wp-immo
+msgid "Energy consumption value"
+msgstr "Valeur de consommation d'énergie"
+
+#: includes/default-data.php:106
+#: includes/default-data.php:118
+#@ wp-immo
+msgid "numerical value"
+msgstr "valeur numérique"
+
+#: includes/default-data.php:111
+#@ wp-immo
+msgid "Category gas emissions greenhouse"
+msgstr "Catégorie d'émissions de gaz à effet de serre"
+
+#: includes/default-data.php:117
+#@ wp-immo
+msgid "Value of greenhouse gas emissions"
+msgstr "Valeur des émissions de gaz à effet de serre"
+
+#: includes/wpimmo-front.php:347
+#: includes/wpimmo-widgets.php:84
+#@ wp-immo
+msgid "Discover"
+msgstr "Découvrir"
+
+#: templates/admin/tabs/search.php:66
+#@ wp-immo
+msgid "min"
+msgstr "Min"
+
+#: templates/admin/tabs/search.php:67
+#@ wp-immo
+msgid "max"
+msgstr "Max"
+
+#: includes/wpimmo-process.php:61
+#: templates/admin/tabs/groups.php:11
+#@ wp-immo
+msgid "New group"
+msgstr "Nouveau groupe"
+
+#: includes/wpimmo-widgets.php:247
+#@ wp-immo
+msgid "Fields group for WP Immo properties."
+msgstr "Groupes de champs pour les biens WP Immo."
+
+#: includes/wpimmo-widgets.php:249
+#@ wp-immo
+msgid "WP Immo - Group"
+msgstr "WP Immo - Groupe de champs"
+
+#: includes/wpimmo-widgets.php:270
+#@ wp-immo
+msgid "Group:"
+msgstr "Groupe :"
+
+#: includes/wpimmo-widgets.php:278
+#@ wp_immo
+msgid "Show title:"
+msgstr ""
+
+#: templates/admin/settings.php:66
+#@ wp-immo
+msgid "Your groups have been saved."
+msgstr "Vos groupes ont été enregistrés."
+
+#: templates/admin/settings.php:104
+#@ wp-immo
+msgid "Field groups"
+msgstr "Groupes de champs"
+
+#: templates/admin/tabs/groups.php:15
+#: templates/admin/tabs/groups.php:27
+#@ wp-immo
+msgid "New field"
+msgstr "Nouveau champ"
+
+#: templates/admin/tabs/groups.php:71
+#@ wp-immo
+msgid "Combined with"
+msgstr "Combiné avec"
+
+#: templates/admin/tabs/groups.php:96
+#@ wp-immo
+msgid "Add group"
+msgstr "Ajouter un groupe"
+
+#: templates/admin/tabs/help.php:49
+#@ wp-immo
+msgid "WP Immo widgets"
+msgstr "Widgets WP Immo"
+
+#: templates/admin/tabs/help.php:53
+#@ wp-immo
+msgid "Display a search box. Search boxes are defined in <a href=\"?page=wp-immo&amp;tab=search\">WP Immo settings</a>."
+msgstr "Affiche un moteur de recherche. Les moteurs de recherche peuvent être configurés dans les <a href=\"?page=wp-immo&amp;tab=search\">réglages WP Immo</a>."
+
+#: templates/admin/tabs/help.php:57
+#@ wp-immo
+msgid "Add your HTML wrapper for the widget."
+msgstr "HTML autour du widget."
+
+#: templates/admin/tabs/help.php:62
+#@ wp-immo
+msgid "End of your HTML wrapper"
+msgstr "Fin du HTML autour du widget."
+
+#: templates/admin/tabs/help.php:64
+#@ wp-immo
+msgid "Search type. Availables values are <em>full</em> or <em>basic</em>"
+msgstr "Type de moteur. Les valeurs possibles sont <em>full</em> ou <em>basic</em>."
+
+#: templates/admin/tabs/help.php:65
+#@ wp-immo
+msgid "Title for your search box."
+msgstr "Titre du moteur de recherche."
+
+#: templates/admin/tabs/help.php:68
+#: templates/admin/tabs/help.php:87
+#: templates/admin/tabs/help.php:106
+#@ wp-immo
+msgid "Appearance menu or "
+msgstr "Menu Apparence ou "
+
+#: templates/admin/tabs/help.php:68
+#: templates/admin/tabs/help.php:87
+#: templates/admin/tabs/help.php:106
+#@ wp-immo
+msgid "in your templates."
+msgstr "dans vos templates."
+
+#: templates/admin/tabs/help.php:74
+#@ wp-immo
+msgid "Display a group of WP Immo fields. Groups are defined in <a href=\"?page=wp-immo&amp;tab=groups\">WP Immo settings</a>."
+msgstr "Affiche un groupe de champs WP Immo. Les groupes peuvent être dans les <a href=\"?page=wp-immo&amp;tab=groups\">réglages WP Immo</a>."
+
+#: templates/admin/tabs/help.php:83
+#@ wp-immo
+msgid "The ID of the group. It's displayed in the <a href=\"?page=wp-immo&amp;tab=groups\">WP Immo settings</a>."
+msgstr "Identifiant du groupe de champs. Il est affiché dans les <a href=\"?page=wp-immo&amp;tab=groups\">réglages WP Immo</a>."
+
+#: templates/admin/tabs/help.php:84
+#@ wp-immo
+msgid "Weither to show the title of the fields group or not."
+msgstr "Affiche ou non le titre du groupe de champs."
+
+#: templates/admin/tabs/help.php:93
+#@ wp-immo
+msgid "Display last properties in an unorderd list."
+msgstr "Affiche les dernières propriétés dans une liste non ordonnée."
+
+#: templates/admin/tabs/help.php:102
+#@ wp-immo
+msgid "number of propeties to display."
+msgstr "Nombre de propriétés à afficher."
+
+#: templates/admin/tabs/help.php:103
+#@ wp-immo
+msgid "Use a field as a condition in the query. The field must be a \"yesno\" type. The value set in the query is \"yes\"."
+msgstr "Champ WP Immo à utiliser comme condition. Le champ doit être de type \"yesno\". La valeur testée est \\\"oui\\\"."
+
+#: templates/admin/tabs/help.php:113
+#@ wp-immo
+msgid "Build a unordered list with properties"
+msgstr "Affiche une liste non ordonnée des biens."
+
+#: templates/front/property.php:71
+#@ wp-immo
+msgid "Ref. :"
+msgstr "Réf. :"
+
+#: templates/front/property.php:82
+#@ wp-immo
+msgid "Ce bien vous interesse ?"
+msgstr "Ce bien vous intéresse ?"
+
+#: templates/front/property.php:83
+#, php-format
+#@ wp-immo
+msgid "Contactez-nous au <a href=\"tel:%1$s\">%1$s</a>"
+msgstr "Contactez-nous au  <a href=\"tel:%1$s\">%1$s</a>"
+
+#: templates/front/property.php:86
+#@ wp-immo
+msgid "Ou utilisez notre formulaire de contact"
+msgstr "Ou utilisez notre formulaire de contact"
+
+#: templates/front/property.php:87
+#@ wp-immo
+msgid "Contact"
+msgstr "Contact"
+
